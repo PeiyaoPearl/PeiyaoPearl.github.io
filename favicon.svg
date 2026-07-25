@@ -1,32 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
   <rect width="1024" height="1024" fill="#ffffff"/>
-
-  <defs>
-    <path id="topArc" d="M 255 410 A 300 300 0 0 1 769 410"/>
-    <path id="bottomArc" d="M 255 620 A 300 300 0 0 0 769 620"/>
-  </defs>
-
-  <!-- central circle -->
-  <circle cx="512" cy="512" r="155" fill="#000000"/>
-
-  <!-- PZ inside circle -->
-  <text x="512" y="560" text-anchor="middle"
+  <text x="512" y="585" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="150"
+        font-size="240"
         font-weight="700"
-        fill="#ffffff">PZ</text>
-
-  <!-- top curved text -->
-  <text font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#000000" letter-spacing="34">
-    <textPath href="#topArc" startOffset="50%" text-anchor="middle">Z H A N G</textPath>
-  </text>
-
-  <!-- side dots -->
-  <circle cx="255" cy="512" r="9" fill="#000000"/>
-  <circle cx="769" cy="512" r="9" fill="#000000"/>
-
-  <!-- bottom curved slogan -->
-  <text font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#000000" letter-spacing="3">
-    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">Be a world changer</textPath>
-  </text>
+        fill="#000000">PZ</text>
 </svg>
