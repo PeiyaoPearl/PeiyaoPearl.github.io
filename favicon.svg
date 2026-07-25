@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
   <rect width="1024" height="1024" fill="#ffffff"/>
-  <text x="512" y="585" text-anchor="middle"
+  <text x="512" y="650" text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="240"
+        font-size="410"
         font-weight="700"
         fill="#000000">PZ</text>
 </svg>
