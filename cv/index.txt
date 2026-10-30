@@ -62,11 +62,12 @@ f:I[4911,[],"AsyncMetadataOutlet"]
 15:I[4911,[],"AsyncMetadata"]
 17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","157","static/chunks/157-9af88413fc169af4.js","748","static/chunks/748-e65c582f71fcde66.js","182","static/chunks/app/%5Bslug%5D/page-e8c93450c40c66e4.js"],"default"]
 b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-18:Ta23,## Education
+18:Ta45,## Education
 
 **University College London**, MSc Urban Spatial Science  
-*London, UK · Expected Sep 2026*
+*London, UK · Sep 2025 – Sep 2026*
 
+- Classification: Distinction
 - Relevant coursework: Agent-Based Modelling, Machine Learning for Spatial Data, Spatial Databases & SQL, Urban Data Visualisation, Quantitative Methods for Urban Analytics, Geographic Information Systems and Science.
 
 **Soochow University**, Bachelor of Engineering in Urban Planning  
